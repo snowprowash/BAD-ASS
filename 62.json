@@ -1,0 +1,26 @@
+{
+  "format": "CHIP-0007",
+  "minting_tool": "mintgarden-studio",
+  "sensitive_content": false,
+  "name": "ASS #62",
+  "description": "Part of the BAD ASS collection.\nBold. Playful. Unapologetic.\nNSFW 18+.",
+  "attributes": [],
+  "collection": {
+    "id": "37f09711-80f5-4180-8a81-0928eb6c0b5c",
+    "name": "BAD ASS",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "BAD ASS — a bold and playful NSFW art collection celebrating curves, attitude, and individuality.\n\nEvery ASS is different. Every ASS has attitude.\n\n18+ only.\n"
+      },
+      {
+        "type": "icon",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeiaht4dnukjbhmn64wil7kvq632trbjjtuqhn444oiykqojzba24ai/9059618f-a239-49c7-b3ea-b856c324766a.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeiabi4inxvrlxkmrvl4him76cpym4sa6tgkhe7efj6d5k7orceop3y/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_02_31%20AM.png"
+      }
+    ]
+  }
+}
